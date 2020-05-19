@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="androidWeb:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="107738b9-cd81-439e-af56-91668b3f1364" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="androidWeb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/controller/UserServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/controller/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/aaa.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret selection-end-line="31" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/controller/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controller/UserServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/aaa.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/controller/ContentHandler.java" />
+        <option value="$PROJECT_DIR$/web/aaa.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\my_maven_local_repository" />
+        <option name="mavenHome" value="D:/java/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\java64\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-28" />
+    <option name="y" value="11" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="1bqH1g4ekbI1kxNtukycAh5HwKK" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="androidWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="androidWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="androidWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="androidWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="androidWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="androidWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/android/Android_SDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589879683521" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java Project\IDEA\androidWeb\src\main\java\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java Project\IDEA\androidWeb\web" />
+      <recent name="D:\java Project\IDEA\androidWeb\src\main\java\dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.t1">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.HelloWorld" />
+      <module name="androidWeb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.29" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8 (2)">
+      <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="androidWeb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/androidWeb_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_androidWeb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55990" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="androidWeb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Tomcat Server.t1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jintingbo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="107738b9-cd81-439e-af56-91668b3f1364" name="Default Changelist" comment="" />
+      <created>1589352489470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589352489470</updated>
+      <workItem from="1589352492705" duration="2153000" />
+      <workItem from="1589518018793" duration="1656000" />
+      <workItem from="1589519793131" duration="292000" />
+      <workItem from="1589527281350" duration="2968000" />
+      <workItem from="1589552359870" duration="846000" />
+      <workItem from="1589612619940" duration="748000" />
+      <workItem from="1589855031338" duration="12092000" />
+      <workItem from="1589880183007" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18949000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-22" y="9" width="784" height="832" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.3857143" />
+      <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.23819163" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50108933" side_tool="true" weight="0.23819163" />
+      <window_info id="设计器" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50108933" side_tool="true" weight="0.23819163" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5330634" visible="true" weight="0.51983005" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932525" weight="0.329927" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49932525" weight="0.329927" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329927" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.46693656" side_tool="true" weight="0.52549577" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.329927" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="调试" order="15" />
+      <window_info anchor="bottom" id="Tail" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="91" key="#Project_Structure" timestamp="1589352710002">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="91" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1589352710002" />
+    <state x="174" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589352939143">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1589352939143" />
+    <state x="342" y="111" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589352613462">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="342" y="111" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.860@0.0.1440.860" timestamp="1589352613462" />
+    <state x="67" y="232" key="FileChooserDialogImpl" timestamp="1589352916632">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="67" y="232" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1589352916632" />
+    <state width="957" height="222" key="GridCell.Tab.0.bottom" timestamp="1589354236948">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1589354236948" />
+    <state width="957" height="222" key="GridCell.Tab.0.center" timestamp="1589354236947">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1589354236947" />
+    <state width="957" height="222" key="GridCell.Tab.0.left" timestamp="1589354236947">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1589354236947" />
+    <state width="957" height="222" key="GridCell.Tab.0.right" timestamp="1589354236947">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1589354236947" />
+    <state width="957" height="222" key="GridCell.Tab.1.bottom" timestamp="1589354236730">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1589354236730" />
+    <state width="957" height="222" key="GridCell.Tab.1.center" timestamp="1589354236729">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1589354236729" />
+    <state width="957" height="222" key="GridCell.Tab.1.left" timestamp="1589354236729">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1589354236729" />
+    <state width="957" height="222" key="GridCell.Tab.1.right" timestamp="1589354236729">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1589354236729" />
+    <state width="957" height="222" key="GridCell.Tab.2.bottom" timestamp="1589354236730">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1589354236730" />
+    <state width="957" height="222" key="GridCell.Tab.2.center" timestamp="1589354236730">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1589354236730" />
+    <state width="957" height="222" key="GridCell.Tab.2.left" timestamp="1589354236730">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1589354236730" />
+    <state width="957" height="222" key="GridCell.Tab.2.right" timestamp="1589354236730">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="957" height="222" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1589354236730" />
+    <state x="200" y="7" key="SettingsEditor" timestamp="1589353036634">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="200" y="7" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1589353036634" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/ContentHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/aaa.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
